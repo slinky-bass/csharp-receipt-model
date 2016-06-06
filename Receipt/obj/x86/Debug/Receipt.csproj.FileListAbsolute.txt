@@ -1,0 +1,5 @@
+C:\Users\Danielle\Documents\SharpDevelop Projects\Receipt\Receipt\obj\x86\Debug\Receipt.csprojResolveAssemblyReference.cache
+C:\Users\Danielle\Documents\SharpDevelop Projects\Receipt\Receipt\bin\Debug\Receipt.exe
+C:\Users\Danielle\Documents\SharpDevelop Projects\Receipt\Receipt\bin\Debug\Receipt.pdb
+C:\Users\Danielle\Documents\SharpDevelop Projects\Receipt\Receipt\obj\x86\Debug\Receipt.exe
+C:\Users\Danielle\Documents\SharpDevelop Projects\Receipt\Receipt\obj\x86\Debug\Receipt.pdb
